@@ -1,0 +1,17 @@
+{
+    "name": "MecânicaPro Gestão de Frotas",
+    "short_name": "MecânicaPro",
+    "description": "Sistema de Gestão de Manutenção Preventiva para Transportadoras",
+    "start_url": "frota.html",
+    "display": "standalone",
+    "background_color": "#111215",
+    "theme_color": "#f59e0b",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "https://cdn-icons-png.flaticon.com/512/2555/2555013.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
